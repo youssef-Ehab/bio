@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1544466409 source:e:\soft\c++\fci-cu assignment 4 programming 2\main.cpp
+	<iostream>
+
+1544523697 source:e:\soft\c++\fci-cu assignment 4 programming 2\sequence.cpp
+	"Sequence.h"
+
+1544523691 e:\soft\c++\fci-cu assignment 4 programming 2\sequence.h
+	<iostream>
+
+1544464924 source:e:\soft\c++\fci-cu assignment 4 programming 2\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+
+1544523340 e:\soft\c++\fci-cu assignment 4 programming 2\dna.h
+	"Sequence.h"
+	<iostream>
+
+1544521668 source:e:\soft\c++\fci-cu assignment 4 programming 2\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1544521628 e:\soft\c++\fci-cu assignment 4 programming 2\codonstable.h
+	<string>
+	<fstream>
+
+1544525111 source:e:\soft\c++\fci-cu assignment 4 programming 2\protein.cpp
+	"Protein.h"
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544525111 e:\soft\c++\fci-cu assignment 4 programming 2\protein.h
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+
+1544523625 source:e:\soft\c++\fci-cu assignment 4 programming 2\rna.cpp
+	"RNA.h"
+	"Protein.h"
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544530523 e:\soft\c++\fci-cu assignment 4 programming 2\rna.h
+	"Sequence.h"
+	"Protein.h"
+	"DNA.h"
+	"CodonsTable.h"
+
+1544531454 source:d:\fci\prog\assignment\fci-cu assignment 4 programming 2\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1544531454 d:\fci\prog\assignment\fci-cu assignment 4 programming 2\codonstable.h
+	<string>
+	<fstream>
+
+1544531455 source:d:\fci\prog\assignment\fci-cu assignment 4 programming 2\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+
+1544531455 d:\fci\prog\assignment\fci-cu assignment 4 programming 2\dna.h
+	"Sequence.h"
+	<iostream>
+
+1544531469 d:\fci\prog\assignment\fci-cu assignment 4 programming 2\sequence.h
+	<iostream>
+
+1544645895 d:\fci\prog\assignment\fci-cu assignment 4 programming 2\rna.h
+	"Sequence.h"
+	"Protein.h"
+	"DNA.h"
+	"CodonsTable.h"
+
+1544531467 d:\fci\prog\assignment\fci-cu assignment 4 programming 2\protein.h
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+
+1544531467 source:d:\fci\prog\assignment\fci-cu assignment 4 programming 2\protein.cpp
+	"Protein.h"
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544531468 source:d:\fci\prog\assignment\fci-cu assignment 4 programming 2\sequence.cpp
+	"Sequence.h"
+
+1544645860 source:d:\fci\prog\assignment\fci-cu assignment 4 programming 2\rna.cpp
+	"RNA.h"
+	"Protein.h"
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+	<iostream>
+
